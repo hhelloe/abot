@@ -11,7 +11,7 @@ MRB2本身**不具备任何**实际功能
 
 
 <details>
-<summary>查看基本看目录结构</summary>
+<summary>查看基本目录结构</summary>
 
 ```
 ├─ data                MRB2及插件的临时/缓存文件
